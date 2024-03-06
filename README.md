@@ -1,3 +1,4 @@
+![logo](https://github.com/sha-r0/sha-r0/blob/main/backhospital.png)
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate App developer from India</h3>
 

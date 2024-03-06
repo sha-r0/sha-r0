@@ -1,8 +1,7 @@
 ![logo](https://github.com/sha-r0/sha-r0/blob/main/backhospital.png)
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate App developer from India</h3>
-<img align="right" alt="coding" width="400" src="[![image](https://github.com/sha-r0/sha-r0/assets/119722163/e251a5cb-9d89-49ac-9601-b2c171035800)](https://www.google.com/search?q=coder&tbm=isch&hl=en&tbs=rimg:Cc4Y0hKtF3fwYQiXYHCnXDdIsgINEAA6BAgBEABVqwfVPsACANgCAOACAA&rlz=1C1CHBF_enIN1029IN1029&sa=X&ved=0CBoQuIIBahcKEwiwwPmY6t-EAxUAAAAAHQAAAAAQBw&biw=1707&bih=772&dpr=1.13#imgrc=35X6L1D39_KDvM)
-">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-r0&label=Profile%20views&color=0e75b6&style=flat" alt="sha-r0" /> </p>
 

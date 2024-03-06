@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate App developer from India</h3>
 
+<img align="right" alt"coding" width"400" src"![image](https://github.com/sha-r0/sha-r0/assets/119722163/d59c161a-9d2b-4915-91b3-c889ee826fa8)
+">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-r0&label=Profile%20views&color=0e75b6&style=flat" alt="sha-r0" /> </p>
 
 <h3 align="left">Connect with me:</h3>

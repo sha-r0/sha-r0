@@ -1,4 +1,4 @@
-![logo](https://github.com/sha-r0/sha-r0/blob/main/backhospital.png)
+![logo](https://github.com/sha-r0/sha-r0/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate App developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">

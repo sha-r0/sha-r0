@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate App developer from India</h3>
 
-<img align="right" alt"coding" width"400" src"![image](https://github.com/sha-r0/sha-r0/assets/119722163/d59c161a-9d2b-4915-91b3-c889ee826fa8)
+<img align="right" alt"coding" width"400" src"https://github.com/sha-r0/sha-r0/assets/119722163/d59c161a-9d2b-4915-91b3-c889ee826fa8
 ">
 
 

@@ -5,10 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-r0&label=Profile%20views&color=0e75b6&style=flat" alt="sha-r0" /> </p>
 
+- 📫 How to reach me **9811880794**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iEDIGTSNcGF6q0FB4OIEw2QttHZVIfON/view?usp=drive_link](https://drive.google.com/file/d/1iEDIGTSNcGF6q0FB4OIEw2QttHZVIfON/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/sha_r0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sha_r0_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sha-r0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sha-r0" height="30" width="40" /></a>
-<a href="https://instagram.com/shar0_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sha-r0" height="30" width="40" /></a>
+<a href="https://instagram.com/sha-r0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sha-r0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
